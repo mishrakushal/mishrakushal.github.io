@@ -1,7 +1,8 @@
-# frozen_string_literal: true
+# # frozen_string_literal: true
+
+# # gem "rails"
+# gem "jekyll"
+# gem "jekyll-paginate"
 
 source "https://rubygems.org"
-
-# gem "rails"
-gem "jekyll"
-gem "jekyll-paginate"
+gem "github-pages", group: :jekyll_plugins
