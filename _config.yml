@@ -2,7 +2,7 @@
 title:               'Kushal Mishra'
 tagline:             'A day at a time'
 description:         'Shadowborne'
-url:                 http://mishrakushal.github.io
+# url:                 http://mishrakushal.github.io
 baseurl:             /
 paginate:            5
 permalink:           pretty
