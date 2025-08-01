@@ -3,15 +3,18 @@ layout: page
 title: Experience
 ---
 
-### JPMorganChase
+### [Biopeak Health](https://biopeak.com/)
 
-> \- Risk Analyst &middot; Jul 2024 -- **present** <br>
+> AI Engineer &middot; Jul 2025 -- **present** <br>
+
+### [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
+
+> \- Risk Analyst &middot; Jul 2024 -- Jul 2025 <br>
 > \- Innovation Intern &middot; Jan 2024 -- Jun 2024
 
-### DSLR Technologies
+### [Aramya](https://aramya.in/)  
+> Software Engineering Intern · Jun 2022 – Jul 2022  
 
-> Software Engineering Intern &middot; Jun 2022 -- Jul 2022
-
-### Swecha AP
+### [Swecha AP](https://www.swechaap.org/)
 
 > Web Development Intern &middot; May 2022 -- Jun 2022
