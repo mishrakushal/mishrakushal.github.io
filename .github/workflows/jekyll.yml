@@ -29,7 +29,8 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    # ponytail: ubuntu-latest moved to 26.04, which the setup-ruby pin below can't resolve. Bump setup-ruby before 24.04 runners retire.
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
